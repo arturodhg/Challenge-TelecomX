@@ -8,4 +8,3 @@ Python para el procesamiento y análisis y Jupyter Notebook (Google Colab) para 
 Un archivo de datos en formato JSON y la biblioteca Pandas para manipulación de datos.
 NumPy para cálculos numéricos.
 Matplotlib, Seaborn para visualización gráfica estadística.
-Plotly para visualización gráfica interactiva.
